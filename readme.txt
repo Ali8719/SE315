@@ -12,3 +12,10 @@ retur a-b;
 int mul()
 return a*b;
 
+//hey this is ali
+and i am adding following code, in addition i include one file too
+
+int minali(){
+return a;
+}
+
